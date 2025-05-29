@@ -23,7 +23,7 @@ Used for ads, games, and high-fidelity CG workflows.
 _A faceless, high-CPM YouTube doc channel powered by full-stack automation._  
 From trend mining to scriptwriting to Runway-generated video assets.
 
-📱 **[Sarsha](https://github.com/ayudhinc/sarsha)**  
+📱 **[Sarsha](https://github.com/ayudhinc/sonave)**  
 _HealthSensei360 mobile frontend for holistic health navigation._  
 Connects wearables, predictions, and interventions in a beautifully minimal app.
 
@@ -48,9 +48,9 @@ I value clear APIs, defensible positioning, and ethical AI.
 My ideal project feels like a science experiment with a launch button.
 
 📬 Let's Connect
-💌 dushyant@ayudh.dev
-🐦 @kashyapdushyant
-📚 LinkedIn
+💌 dushyant@ayudh.ai
+🐦 @dushyantk
+📚 LinkedIn/DTKA
 🛠️ Building at github.com/ayudhinc
 
 “Tools shape behavior. I build tools that make the right thing easier to do.”
