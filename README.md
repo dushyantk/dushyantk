@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dushyant Kashyap
+# Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dushyant Kashyap
 
 **Founder @ [Ayudh Inc](https://github.com/ayudhinc) | Systems Thinker | AI Engineer | Creative Technologist**
 
