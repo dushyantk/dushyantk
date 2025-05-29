@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Dushyant Kashyap
 
-<!--
-**dushyantk/dushyantk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder @ [Ayudh Inc](https://github.com/ayudhinc) | Systems Thinker | AI Engineer | Creative Technologist**
 
-Here are some ideas to get you started:
+I architect, prototype, and ship tools at the frontier of AI, 3D, and security.  
+My work spans everything from intelligent Git commit firewalls to generative 3D studios—designed to empower engineers, creators, and researchers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I'm Building
+
+🚧 **[CommitGuardian](https://github.com/ayudhinc/commitguardian)**  
+_A privacy-first, AI-powered Git commit protection system._  
+Prevents security leaks, slurs, and policy violations with local + cloud LLMs.  
+Built in Rust. Wired into GitHub. Hardened for enterprise.
+
+🧪 **[Sorcera.Studio](https://github.com/ayudhinc/sorcera)**  
+_A 3D scene + final image generation platform for creatives._  
+Prompt-to-render pipeline with Omniverse, Houdini, and real-time style control.  
+Used for ads, games, and high-fidelity CG workflows.
+
+📺 **[BoomBustDocs](https://github.com/ayudhinc/boombustdocs)**  
+_A faceless, high-CPM YouTube doc channel powered by full-stack automation._  
+From trend mining to scriptwriting to Runway-generated video assets.
+
+📱 **[Sarsha](https://github.com/ayudhinc/sarsha)**  
+_HealthSensei360 mobile frontend for holistic health navigation._  
+Connects wearables, predictions, and interventions in a beautifully minimal app.
+
+---
+
+### 💼 My Stack
+
+```ts
+// Dev stack
+Svelte • FastAPI • Tailwind • Vite • SQLite • Redis • GitHub Apps
+
+// ML stack
+llama.cpp • Mistral • Claude • Whisper • NVIDIA Modulus • PhysicsNeMo
+
+// Infra
+Rust • Docker • EKS • SQS • Vercel • Supabase • HuggingFace Hub
+```
+🎯 Philosophy
+“Build small tools that scale. Build big systems that evolve.”
+
+I value clear APIs, defensible positioning, and ethical AI.
+My ideal project feels like a science experiment with a launch button.
+
+📬 Let's Connect
+💌 dushyant@ayudh.dev
+🐦 @kashyapdushyant
+📚 LinkedIn
+🛠️ Building at github.com/ayudhinc
+
+“Tools shape behavior. I build tools that make the right thing easier to do.”
+
+---
