@@ -1,6 +1,6 @@
 # Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dushyant Kashyap
 
-**Founder @ [Ayudh Inc](https://github.com/ayudhinc) | Systems Thinker | AI Engineer | Creative Technologist**
+**Co-Founder @ [Ayudh Inc](https://github.com/ayudhinc) | Systems Thinker | AI Engineer | Creative Technologist**
 
 I architect, prototype, and ship tools at the frontier of AI, 3D, and security.  
 My work spans everything from intelligent Git commit firewalls to generative 3D studios—designed to empower engineers, creators, and researchers.
