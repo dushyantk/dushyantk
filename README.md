@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://dushyant.info">Portfolio Site</a> •
-  <a href="https://www.linkedin.com/in/dushyantkashyap">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dtka">LinkedIn</a> •
   <a href="https://imdb.com/name/nm3084974/">IMDb</a>
 </p>
 
