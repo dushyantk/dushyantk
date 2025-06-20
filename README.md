@@ -1,58 +1,74 @@
-# Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dushyant Kashyap
+<!-- DUSHYANT KASHYAP — GitHub README 2025 -->
+<h1 align="center">👋 Hi, I’m Dushyant Kashyap</h1>
+<h3 align="center">Principal AI/ML Engineer & VFX Pipeline Specialist</h3>
 
-**Co-Founder @ [Ayudh Inc](https://github.com/ayudhinc) | Systems Thinker | AI Engineer | Creative Technologist**
-
-I architect, prototype, and ship tools at the frontier of AI, 3D, and security.  
-My work spans everything from intelligent Git commit firewalls to generative 3D studios—designed to empower engineers, creators, and researchers.
-
----
-
-### 🧠 What I'm Building
-
-🚧 **[CommitGuardian](https://github.com/ayudhinc/commitguardian)**  
-_A privacy-first, AI-powered Git commit protection system._  
-Prevents security leaks, slurs, and policy violations with local + cloud LLMs.  
-Built in Rust. Wired into GitHub. Hardened for enterprise.
-
-🧪 **[Sorcera.Studio](https://github.com/ayudhinc/sorcera)**  
-_A 3D scene + final image generation platform for creatives._  
-Prompt-to-render pipeline with Omniverse, Houdini, and real-time style control.  
-Used for ads, games, and high-fidelity CG workflows.
-
-📺 **[BoomBustDocs](https://github.com/ayudhinc/boombustdocs)**  
-_A faceless, high-CPM YouTube doc channel powered by full-stack automation._  
-From trend mining to scriptwriting to Runway-generated video assets.
-
-📱 **[Sarsha](https://github.com/ayudhinc/sonave)**  
-_HealthSensei360 mobile frontend for holistic health navigation._  
-Connects wearables, predictions, and interventions in a beautifully minimal app.
+<p align="center">
+  <a href="https://dushyant.info">Portfolio Site</a> •
+  <a href="https://www.linkedin.com/in/dushyantkashyap">LinkedIn</a> •
+  <a href="https://imdb.com/name/nm3084974/">IMDb</a>
+</p>
 
 ---
 
-### 💼 My Stack
+### 🚀 Executive Snapshot
+*18 + years blending large-scale VFX pipelines with production-grade machine-learning systems.*
 
-```ts
-// Dev stack
-Svelte • FastAPI • Tailwind • Vite • SQLite • Redis • GitHub Apps
-
-// ML stack
-llama.cpp • Mistral • Claude • Whisper • NVIDIA Modulus • PhysicsNeMo
-
-// Infra
-Rust • Docker • EKS • SQS • Vercel • Supabase • HuggingFace Hub
-```
-🎯 Philosophy
-“Build small tools that scale. Build big systems that evolve.”
-
-I value clear APIs, defensible positioning, and ethical AI.
-My ideal project feels like a science experiment with a launch button.
-
-📬 Let's Connect
-💌 dushyant@ayudh.ai
-🐦 @dushyantk
-📚 LinkedIn/DTKA
-🛠️ Building at github.com/ayudhinc
-
-“Tools shape behavior. I build tools that make the right thing easier to do.”
+- **Built the Coca-Cola Content Engine** → FastAPI micro-service mesh + SDXL Diffusers on A100 GPUs + Omniverse RTX viewer  
+  <sup>↳ Cut creative review cycles by **65 %** and archived **100 TB** to cold storage.</sup>  
+- **Expert in USD automation, real-time RTX rendering, and MLOps** (Docker / GKE / Ray).  
+- **Mentor & leader** — up-skilled 6 TDs in ML workflows; supervise cross-site teams of 200 + artists.  
 
 ---
+
+### 🛠️  Core Stack
+| Languages | Frameworks / Libs | DCC / Engines | DevOps / Cloud |
+|-----------|------------------|---------------|----------------|
+| `Python` • `C++` • `Bash` | FastAPI • Qt / PySide • NVIDIA Omniverse • Stable Diffusion XL | Nuke • Maya • Houdini • Unreal | Docker • GKE • Jenkins • W&B |
+
+---
+
+### 💼 Recent Roles
+| Year | Role | Key Impact |
+|------|------|------------|
+| 2024-25 | **Principal ML Engineer (VFX), Hogarth** | 🚀 Shipped Coca-Cola Engine (↡ 65 % cycles) • Authored global deployment playbook |
+| 2022-23 | **Sr. VFX Pipeline Supervisor, The Embassy VFX** | ↡ 180 h/week artist effort • 30 % fewer hand-off errors |
+| 2018-22 | **Domain Lead – Pipeline TD, Cinesite** | Migrated legacy tools to Py/Qt → ↑ 40 % stability |
+
+<details>
+  <summary>Older Experience (DNEG, Prime Focus, …)</summary>
+
+  * **R&D Programmer, DNEG** — Integrated USD, built 15 PySide widgets (↡ 22 % shot time).  
+  * **Sr. Pipeline TD, Prime Focus** — Farm handled 50k jobs/day; LEGO franchise pipeline.  
+  * …and earlier compositing & illustration roles (scroll résumé).
+</details>
+
+---
+
+### 🧑‍💼 Entrepreneurial Ventures
+| Year | Venture | What I Do |
+|------|---------|-----------|
+| 2025-▶ | **Founder, Ayudh Inc.** | R&D for **Sorcera.Studio** & **CommitGuardian**; \$85 k PoCs; USD/Omni consulting (↡ 20 % costs). |
+| 2023-▶ | **Angel Investor, Acculi Labs** | Advise on GPU orchestration & ML security for pharma-AI platform. |
+
+---
+
+### 🎓 Education & Certs
+- **Diploma, Film Animation** — NIIT  
+- **XR Dev w/ Unity**, UBC · **Project Mgmt**, Google · **Game Design**, VFS
+
+### 🤝 Memberships
+`Visual Effects Society (VES)` • `ACM SIGGRAPH`
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dushyantk&show_icons=true&include_all_commits=true&hide_border=true" alt="Dushyant's GitHub stats">
+</p>
+
+---
+
+> “We are what we repeatedly automate. Excellence, then, is not an act but a pipeline.”  
+> — *Adapted from Aristotle (…with a TD spin)*
+
+<!-- End of README -->
